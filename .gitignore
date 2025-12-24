@@ -2,5 +2,9 @@
 !*.md
 !.gitignore
 !src
-!Practice
-!Theory
+!src/Practice
+!src/Theory
+!assets
+!assets/images
+!*.png
+HW
